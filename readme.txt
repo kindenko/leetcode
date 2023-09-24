@@ -1,0 +1,1 @@
+Repository with solved tasks from litcode
