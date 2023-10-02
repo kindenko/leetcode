@@ -14,5 +14,11 @@ func main() {
 
 	//fmt.Println(isValid("{}()"))
 
-	fmt.Println(removeDuplicates([]int{1, 1, 1, 2, 2, 3, 4, 5}))
+	//fmt.Println(removeDuplicates([]int{1, 1, 1, 2, 2, 3, 4, 5}))
+
+	//fmt.Println(removeElement([]int{0, 1, 2, 2, 3, 0, 4, 2}, 2))
+
+	//fmt.Println(strStr("sadbutsad", "sad"))
+
+	fmt.Println(lengthOfLastWord("   fly me   to   the  moon  "))
 }
