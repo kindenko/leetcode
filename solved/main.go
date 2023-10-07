@@ -20,5 +20,9 @@ func main() {
 
 	//fmt.Println(strStr("sadbutsad", "sad"))
 
-	fmt.Println(lengthOfLastWord("   fly me   to   the  moon  "))
+	//fmt.Println(lengthOfLastWord("   fly me   to   the  moon  "))
+
+	//fmt.Println(PlusOne([]int{9}))
+
+	fmt.Println(ClimbStairs(4))
 }
